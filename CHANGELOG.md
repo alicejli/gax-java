@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0](https://github.com/googleapis/gax-java/compare/v2.12.2...v2.13.0) (2022-02-15)
+
+
+### Features
+
+* dynamic channel pool scaled by number of outstanding request ([#1569](https://github.com/googleapis/gax-java/issues/1569)) ([fff2bab](https://github.com/googleapis/gax-java/commit/fff2babaf2620686c2e0be1b6d338ac088248cf6))
+
 ### [2.12.2](https://github.com/googleapis/gax-java/compare/v2.12.1...v2.12.2) (2022-02-09)
 
 
